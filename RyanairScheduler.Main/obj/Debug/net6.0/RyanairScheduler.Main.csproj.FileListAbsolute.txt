@@ -1,0 +1,15 @@
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/bin/Debug/net6.0/RyanairScheduler.Main
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/bin/Debug/net6.0/RyanairScheduler.Main.deps.json
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/bin/Debug/net6.0/RyanairScheduler.Main.runtimeconfig.json
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/bin/Debug/net6.0/RyanairScheduler.Main.dll
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/bin/Debug/net6.0/RyanairScheduler.Main.pdb
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.csproj.AssemblyReference.cache
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.GeneratedMSBuildEditorConfig.editorconfig
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.AssemblyInfoInputs.cache
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.AssemblyInfo.cs
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.csproj.CoreCompileInputs.cache
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.dll
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/refint/RyanairScheduler.Main.dll
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.pdb
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/RyanairScheduler.Main.genruntimeconfig.cache
+/home/wizard/workspace/csharp/rocs-challenge-andrzej-salamon/RyanairSheduler/RyanairScheduler.Main/obj/Debug/net6.0/ref/RyanairScheduler.Main.dll
